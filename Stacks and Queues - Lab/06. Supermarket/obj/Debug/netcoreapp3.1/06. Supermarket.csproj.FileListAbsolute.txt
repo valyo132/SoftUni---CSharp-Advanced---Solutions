@@ -1,0 +1,14 @@
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.exe
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.deps.json
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.json
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.runtimeconfig.dev.json
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.dll
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\bin\Debug\netcoreapp3.1\06. Supermarket.pdb
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csproj.AssemblyReference.cache
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfoInputs.cache
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.AssemblyInfo.cs
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.dll
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.pdb
+M:\C# Advanced\Stacks and Queues - Lab\06. Supermarket\obj\Debug\netcoreapp3.1\06. Supermarket.genruntimeconfig.cache

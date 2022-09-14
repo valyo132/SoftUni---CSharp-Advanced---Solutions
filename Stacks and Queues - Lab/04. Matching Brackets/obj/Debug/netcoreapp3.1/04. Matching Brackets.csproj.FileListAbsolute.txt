@@ -1,0 +1,14 @@
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.csproj.AssemblyReference.cache
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.AssemblyInfoInputs.cache
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.AssemblyInfo.cs
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.exe
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.deps.json
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.runtimeconfig.json
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.runtimeconfig.dev.json
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.dll
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\bin\Debug\netcoreapp3.1\04. Matching Brackets.pdb
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.dll
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.pdb
+M:\C# Advanced\Stacks and Queues - Lab\04. Matching Brackets\obj\Debug\netcoreapp3.1\04. Matching Brackets.genruntimeconfig.cache

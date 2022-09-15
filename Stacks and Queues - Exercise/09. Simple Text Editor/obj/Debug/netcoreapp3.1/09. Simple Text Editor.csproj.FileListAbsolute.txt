@@ -1,0 +1,14 @@
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.AssemblyReference.cache
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+M:\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.genruntimeconfig.cache

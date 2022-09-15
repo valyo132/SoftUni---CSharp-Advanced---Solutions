@@ -1,0 +1,14 @@
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\11. Key Revolver.exe
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\11. Key Revolver.deps.json
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.json
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.dev.json
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\11. Key Revolver.dll
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\11. Key Revolver.pdb
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.AssemblyReference.cache
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfoInputs.cache
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfo.cs
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.dll
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.pdb
+M:\C# Advanced\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\11. Key Revolver.genruntimeconfig.cache

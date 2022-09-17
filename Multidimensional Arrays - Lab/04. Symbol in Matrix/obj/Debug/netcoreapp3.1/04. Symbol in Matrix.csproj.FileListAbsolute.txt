@@ -1,0 +1,14 @@
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.exe
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.deps.json
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.json
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.dev.json
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.csproj.AssemblyReference.cache
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfoInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfo.cs
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+M:\C# Advanced\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.genruntimeconfig.cache

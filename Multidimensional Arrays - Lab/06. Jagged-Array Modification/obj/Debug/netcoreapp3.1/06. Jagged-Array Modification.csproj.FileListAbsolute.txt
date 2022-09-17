@@ -1,0 +1,14 @@
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp3.1\06. Jagged-Array Modification.exe
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp3.1\06. Jagged-Array Modification.deps.json
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp3.1\06. Jagged-Array Modification.runtimeconfig.json
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp3.1\06. Jagged-Array Modification.runtimeconfig.dev.json
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp3.1\06. Jagged-Array Modification.dll
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp3.1\06. Jagged-Array Modification.pdb
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.csproj.AssemblyReference.cache
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.AssemblyInfoInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.AssemblyInfo.cs
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.dll
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.pdb
+M:\C# Advanced\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp3.1\06. Jagged-Array Modification.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.exe
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.deps.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.dev.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.csproj.AssemblyReference.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfoInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfo.cs
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+M:\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.genruntimeconfig.cache

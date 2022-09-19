@@ -1,0 +1,14 @@
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.exe
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.deps.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.dev.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csproj.AssemblyReference.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfo.cs
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+M:\C# Advanced\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.genruntimeconfig.cache

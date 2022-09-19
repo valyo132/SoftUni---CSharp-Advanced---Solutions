@@ -1,0 +1,14 @@
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.exe
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.deps.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.runtimeconfig.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.runtimeconfig.dev.json
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.dll
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.pdb
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.csproj.AssemblyReference.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.AssemblyInfoInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.AssemblyInfo.cs
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.dll
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.pdb
+M:\C# Advanced\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.genruntimeconfig.cache

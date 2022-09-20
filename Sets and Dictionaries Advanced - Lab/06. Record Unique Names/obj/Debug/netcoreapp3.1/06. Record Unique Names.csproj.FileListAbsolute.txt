@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\bin\Debug\netcoreapp3.1\06. Record Unique Names.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\06. Record Unique Names\obj\Debug\netcoreapp3.1\06. Record Unique Names.genruntimeconfig.cache

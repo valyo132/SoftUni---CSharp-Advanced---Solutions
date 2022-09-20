@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.genruntimeconfig.cache

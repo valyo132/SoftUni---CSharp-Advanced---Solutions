@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\netcoreapp3.1\09. SoftUni Exam Results.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\netcoreapp3.1\09. SoftUni Exam Results.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp3.1\02. Sets of Elements.genruntimeconfig.cache

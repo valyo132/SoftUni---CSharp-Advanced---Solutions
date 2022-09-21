@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.genruntimeconfig.cache

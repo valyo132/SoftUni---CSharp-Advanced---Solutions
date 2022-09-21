@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.genruntimeconfig.cache

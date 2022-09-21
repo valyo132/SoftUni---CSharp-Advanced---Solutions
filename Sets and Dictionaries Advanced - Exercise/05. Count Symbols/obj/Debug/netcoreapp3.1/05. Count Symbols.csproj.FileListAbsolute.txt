@@ -1,0 +1,14 @@
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.exe
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.deps.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.runtimeconfig.dev.json
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\netcoreapp3.1\05. Count Symbols.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.csproj.AssemblyReference.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfoInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.AssemblyInfo.cs
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.dll
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.pdb
+M:\C# Advanced\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\netcoreapp3.1\05. Count Symbols.genruntimeconfig.cache

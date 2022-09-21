@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yo5q5V5uR5LwbhfomOXD/lBUdX7pNY2N9IW9SCQhlnltP/sFKo9CCoR+mDBoki0Z+G0wwwcDvQWTUYpYADQS4g==",
+  "success": true,
+  "projectFilePath": "M:\\C# Advanced\\Sets and Dictionaries Advanced - Exercise\\09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valyo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\valyo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\valyo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\valyo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

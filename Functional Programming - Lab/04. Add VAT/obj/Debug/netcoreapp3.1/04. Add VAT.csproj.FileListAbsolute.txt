@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.exe
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.deps.json
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.dll
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.pdb
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.dll
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.pdb
+M:\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.genruntimeconfig.cache

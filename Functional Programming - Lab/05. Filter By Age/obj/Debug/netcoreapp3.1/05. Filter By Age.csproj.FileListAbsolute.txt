@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.exe
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.deps.json
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.dll
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.pdb
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.dll
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.pdb
+M:\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.genruntimeconfig.cache

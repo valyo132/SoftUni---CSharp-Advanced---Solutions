@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.exe
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.deps.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\bin\Debug\netcoreapp3.1\05. Copy Directory.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\05. Copy Directory\obj\Debug\netcoreapp3.1\05. Copy Directory.genruntimeconfig.cache

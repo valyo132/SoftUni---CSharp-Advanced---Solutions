@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.exe
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.deps.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\bin\Debug\netcoreapp3.1\01. Even Lines.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\01. Even Lines\obj\Debug\netcoreapp3.1\01. Even Lines.genruntimeconfig.cache

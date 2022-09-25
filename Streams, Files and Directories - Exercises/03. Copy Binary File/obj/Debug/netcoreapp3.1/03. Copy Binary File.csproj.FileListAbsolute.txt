@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.exe
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.deps.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\netcoreapp3.1\03. Copy Binary File.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\netcoreapp3.1\03. Copy Binary File.genruntimeconfig.cache

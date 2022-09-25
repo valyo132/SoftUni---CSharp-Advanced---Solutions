@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\netcoreapp3.1\04. Directory Traversal.exe
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\netcoreapp3.1\04. Directory Traversal.deps.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\netcoreapp3.1\04. Directory Traversal.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\netcoreapp3.1\04. Directory Traversal.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\netcoreapp3.1\04. Directory Traversal.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\bin\Debug\netcoreapp3.1\04. Directory Traversal.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.dll
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.pdb
+M:\C# Advanced\Streams, Files and Directories - Exercises\04. Directory Traversal\obj\Debug\netcoreapp3.1\04. Directory Traversal.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.exe
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.deps.json
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\bin\Debug\netcoreapp3.1\05. Extract Special Bytes.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\05. Extract Special Bytes\obj\Debug\netcoreapp3.1\05. Extract Special Bytes.genruntimeconfig.cache

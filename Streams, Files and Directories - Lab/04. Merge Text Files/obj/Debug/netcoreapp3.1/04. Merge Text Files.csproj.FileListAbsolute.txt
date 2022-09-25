@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.exe
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.deps.json
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\bin\Debug\netcoreapp3.1\04. Merge Text Files.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\04. Merge Text Files\obj\Debug\netcoreapp3.1\04. Merge Text Files.genruntimeconfig.cache

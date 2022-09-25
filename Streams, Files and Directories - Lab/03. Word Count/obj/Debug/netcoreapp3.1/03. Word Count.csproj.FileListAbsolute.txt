@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.exe
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.deps.json
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp3.1\03. Word Count.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp3.1\03. Word Count.genruntimeconfig.cache

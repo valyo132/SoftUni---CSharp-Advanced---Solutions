@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\netcoreapp3.1\07. Folder Size.exe
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\netcoreapp3.1\07. Folder Size.deps.json
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\netcoreapp3.1\07. Folder Size.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\netcoreapp3.1\07. Folder Size.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\netcoreapp3.1\07. Folder Size.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\netcoreapp3.1\07. Folder Size.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\netcoreapp3.1\07. Folder Size.genruntimeconfig.cache

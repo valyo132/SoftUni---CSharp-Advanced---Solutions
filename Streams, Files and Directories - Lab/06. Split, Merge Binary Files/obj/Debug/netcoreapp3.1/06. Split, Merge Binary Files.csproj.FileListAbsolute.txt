@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\netcoreapp3.1\06. Split, Merge Binary Files.exe
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\netcoreapp3.1\06. Split, Merge Binary Files.deps.json
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\netcoreapp3.1\06. Split, Merge Binary Files.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\netcoreapp3.1\06. Split, Merge Binary Files.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\netcoreapp3.1\06. Split, Merge Binary Files.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\bin\Debug\netcoreapp3.1\06. Split, Merge Binary Files.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\06. Split, Merge Binary Files\obj\Debug\netcoreapp3.1\06. Split, Merge Binary Files.genruntimeconfig.cache

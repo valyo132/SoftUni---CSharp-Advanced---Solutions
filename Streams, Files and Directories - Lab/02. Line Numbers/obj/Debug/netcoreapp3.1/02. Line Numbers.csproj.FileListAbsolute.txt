@@ -1,0 +1,14 @@
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.exe
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.deps.json
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.runtimeconfig.json
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.runtimeconfig.dev.json
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\bin\Debug\netcoreapp3.1\02. Line Numbers.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.csproj.AssemblyReference.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.AssemblyInfoInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.AssemblyInfo.cs
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.dll
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.pdb
+M:\C# Advanced\Streams, Files and Directories - Lab\02. Line Numbers\obj\Debug\netcoreapp3.1\02. Line Numbers.genruntimeconfig.cache

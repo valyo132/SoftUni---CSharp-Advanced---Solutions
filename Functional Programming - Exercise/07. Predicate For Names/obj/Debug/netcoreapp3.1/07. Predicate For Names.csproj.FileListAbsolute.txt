@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.exe
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.deps.json
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.dll
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.dll
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+M:\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.genruntimeconfig.cache

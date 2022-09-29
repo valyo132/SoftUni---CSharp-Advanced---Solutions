@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.exe
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.deps.json
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+M:\C# Advanced\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.genruntimeconfig.cache

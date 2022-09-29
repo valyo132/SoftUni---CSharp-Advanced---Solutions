@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.exe
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.deps.json
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.dll
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.dll
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.pdb
+M:\C# Advanced\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\netcoreapp3.1\03. Custom Min Function.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.exe
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.deps.json
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.dll
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.dll
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+M:\C# Advanced\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.genruntimeconfig.cache

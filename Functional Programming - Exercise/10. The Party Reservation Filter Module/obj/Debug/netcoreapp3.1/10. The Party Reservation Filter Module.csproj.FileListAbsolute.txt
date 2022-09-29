@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.exe
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.deps.json
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.dll
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.pdb
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.dll
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.pdb
+M:\C# Advanced\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\netcoreapp3.1\10. The Party Reservation Filter Module.genruntimeconfig.cache

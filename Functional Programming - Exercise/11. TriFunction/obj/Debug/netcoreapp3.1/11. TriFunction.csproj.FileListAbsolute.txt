@@ -1,0 +1,14 @@
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\bin\Debug\netcoreapp3.1\11. TriFunction.exe
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\bin\Debug\netcoreapp3.1\11. TriFunction.deps.json
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\bin\Debug\netcoreapp3.1\11. TriFunction.runtimeconfig.json
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\bin\Debug\netcoreapp3.1\11. TriFunction.runtimeconfig.dev.json
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\bin\Debug\netcoreapp3.1\11. TriFunction.dll
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\bin\Debug\netcoreapp3.1\11. TriFunction.pdb
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.csproj.AssemblyReference.cache
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.AssemblyInfoInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.AssemblyInfo.cs
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.dll
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.pdb
+M:\C# Advanced\Functional Programming - Exercise\11. TriFunction\obj\Debug\netcoreapp3.1\11. TriFunction.genruntimeconfig.cache

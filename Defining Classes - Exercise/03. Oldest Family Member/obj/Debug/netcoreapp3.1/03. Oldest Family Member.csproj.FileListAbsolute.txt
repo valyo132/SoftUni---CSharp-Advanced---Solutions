@@ -1,0 +1,14 @@
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.exe
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.deps.json
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.json
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.dev.json
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csproj.AssemblyReference.cache
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfoInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfo.cs
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+M:\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.genruntimeconfig.cache

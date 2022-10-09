@@ -1,0 +1,14 @@
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.exe
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.deps.json
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.runtimeconfig.json
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.runtimeconfig.dev.json
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.dll
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04. Opinion Poll.pdb
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.csproj.AssemblyReference.cache
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.AssemblyInfoInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.AssemblyInfo.cs
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.dll
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.pdb
+M:\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.genruntimeconfig.cache

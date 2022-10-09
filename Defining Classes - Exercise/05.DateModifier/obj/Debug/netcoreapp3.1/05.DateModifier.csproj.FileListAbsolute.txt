@@ -1,0 +1,14 @@
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.exe
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.deps.json
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.json
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.runtimeconfig.dev.json
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.dll
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\bin\Debug\netcoreapp3.1\05.DateModifier.pdb
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.csproj.AssemblyReference.cache
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfoInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.AssemblyInfo.cs
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.dll
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.pdb
+M:\C# Advanced\Defining Classes - Exercise\05.DateModifier\obj\Debug\netcoreapp3.1\05.DateModifier.genruntimeconfig.cache

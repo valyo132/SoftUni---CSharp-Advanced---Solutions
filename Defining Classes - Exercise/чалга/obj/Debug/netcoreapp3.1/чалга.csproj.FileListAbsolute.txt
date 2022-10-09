@@ -1,0 +1,14 @@
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.csproj.AssemblyReference.cache
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.AssemblyInfoInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.AssemblyInfo.cs
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Defining Classes - Exercise\чалга\bin\Debug\netcoreapp3.1\чалга.exe
+M:\C# Advanced\Defining Classes - Exercise\чалга\bin\Debug\netcoreapp3.1\чалга.deps.json
+M:\C# Advanced\Defining Classes - Exercise\чалга\bin\Debug\netcoreapp3.1\чалга.runtimeconfig.json
+M:\C# Advanced\Defining Classes - Exercise\чалга\bin\Debug\netcoreapp3.1\чалга.runtimeconfig.dev.json
+M:\C# Advanced\Defining Classes - Exercise\чалга\bin\Debug\netcoreapp3.1\чалга.dll
+M:\C# Advanced\Defining Classes - Exercise\чалга\bin\Debug\netcoreapp3.1\чалга.pdb
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.dll
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.pdb
+M:\C# Advanced\Defining Classes - Exercise\чалга\obj\Debug\netcoreapp3.1\чалга.genruntimeconfig.cache

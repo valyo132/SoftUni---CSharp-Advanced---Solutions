@@ -1,0 +1,14 @@
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.exe
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.deps.json
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.json
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.runtimeconfig.dev.json
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.dll
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\bin\Debug\netcoreapp3.1\03. Car Constructors.pdb
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csproj.AssemblyReference.cache
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfoInputs.cache
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.AssemblyInfo.cs
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.dll
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.pdb
+M:\C# Advanced\Defining Classes - Lab\03. Car Constructors\obj\Debug\netcoreapp3.1\03. Car Constructors.genruntimeconfig.cache

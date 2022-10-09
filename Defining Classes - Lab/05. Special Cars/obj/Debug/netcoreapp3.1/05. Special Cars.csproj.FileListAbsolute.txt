@@ -1,0 +1,14 @@
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp3.1\05. Special Cars.exe
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp3.1\05. Special Cars.deps.json
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp3.1\05. Special Cars.runtimeconfig.json
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp3.1\05. Special Cars.runtimeconfig.dev.json
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp3.1\05. Special Cars.dll
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp3.1\05. Special Cars.pdb
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.csproj.AssemblyReference.cache
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.AssemblyInfoInputs.cache
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.AssemblyInfo.cs
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.dll
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.pdb
+M:\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp3.1\05. Special Cars.genruntimeconfig.cache

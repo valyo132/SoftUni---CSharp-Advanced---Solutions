@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\bin\Debug\netcoreapp3.1\03. The Race.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\bin\Debug\netcoreapp3.1\03. The Race.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\bin\Debug\netcoreapp3.1\03. The Race.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\bin\Debug\netcoreapp3.1\03. The Race.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\bin\Debug\netcoreapp3.1\03. The Race.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\bin\Debug\netcoreapp3.1\03. The Race.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. The Race\obj\Debug\netcoreapp3.1\03. The Race.genruntimeconfig.cache

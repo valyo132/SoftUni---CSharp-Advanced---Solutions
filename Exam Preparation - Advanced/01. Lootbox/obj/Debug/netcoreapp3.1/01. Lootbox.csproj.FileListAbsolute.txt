@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.genruntimeconfig.cache

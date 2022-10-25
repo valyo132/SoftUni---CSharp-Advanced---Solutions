@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.genruntimeconfig.cache

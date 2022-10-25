@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.genruntimeconfig.cache

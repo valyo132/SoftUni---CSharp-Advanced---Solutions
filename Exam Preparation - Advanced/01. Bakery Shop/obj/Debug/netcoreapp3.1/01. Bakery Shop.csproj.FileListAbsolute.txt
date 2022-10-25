@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.genruntimeconfig.cache

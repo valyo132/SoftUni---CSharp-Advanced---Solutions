@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.genruntimeconfig.cache

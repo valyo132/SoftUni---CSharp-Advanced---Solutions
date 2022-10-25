@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\bin\Debug\netcoreapp3.1\03. Parking.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\bin\Debug\netcoreapp3.1\03. Parking.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\bin\Debug\netcoreapp3.1\03. Parking.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\bin\Debug\netcoreapp3.1\03. Parking.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\bin\Debug\netcoreapp3.1\03. Parking.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\bin\Debug\netcoreapp3.1\03. Parking.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Parking\obj\Debug\netcoreapp3.1\03. Parking.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\bin\Debug\netcoreapp3.1\01. Meal Plan.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Meal Plan\obj\Debug\netcoreapp3.1\01. Meal Plan.genruntimeconfig.cache

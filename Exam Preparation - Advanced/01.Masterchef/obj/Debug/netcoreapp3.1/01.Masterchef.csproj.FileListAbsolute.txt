@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.exe
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.dll
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.dll
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.genruntimeconfig.cache

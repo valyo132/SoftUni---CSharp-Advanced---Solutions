@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.genruntimeconfig.cache

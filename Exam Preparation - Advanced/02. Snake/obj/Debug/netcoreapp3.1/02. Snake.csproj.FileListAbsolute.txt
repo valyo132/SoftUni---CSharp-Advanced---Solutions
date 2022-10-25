@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\bin\Debug\netcoreapp3.1\02. Snake.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Snake\obj\Debug\netcoreapp3.1\02. Snake.genruntimeconfig.cache

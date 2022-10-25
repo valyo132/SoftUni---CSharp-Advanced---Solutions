@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.genruntimeconfig.cache

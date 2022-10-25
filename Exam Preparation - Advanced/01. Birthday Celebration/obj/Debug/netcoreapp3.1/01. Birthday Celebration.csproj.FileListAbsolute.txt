@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\bin\Debug\netcoreapp3.1\01. Birthday Celebration.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Birthday Celebration\obj\Debug\netcoreapp3.1\01. Birthday Celebration.genruntimeconfig.cache

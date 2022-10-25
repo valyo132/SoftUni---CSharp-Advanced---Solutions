@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\bin\Debug\netcoreapp3.1\03. Openning.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Openning\obj\Debug\netcoreapp3.1\03. Openning.genruntimeconfig.cache

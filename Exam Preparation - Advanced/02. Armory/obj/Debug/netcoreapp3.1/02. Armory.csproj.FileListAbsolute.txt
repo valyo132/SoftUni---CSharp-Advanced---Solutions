@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.genruntimeconfig.cache

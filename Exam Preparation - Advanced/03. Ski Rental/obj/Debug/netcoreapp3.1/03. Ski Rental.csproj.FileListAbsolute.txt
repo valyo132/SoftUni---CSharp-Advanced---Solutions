@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\bin\Debug\netcoreapp3.1\03. Ski Rental.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\bin\Debug\netcoreapp3.1\03. Ski Rental.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\bin\Debug\netcoreapp3.1\03. Ski Rental.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\bin\Debug\netcoreapp3.1\03. Ski Rental.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\bin\Debug\netcoreapp3.1\03. Ski Rental.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\bin\Debug\netcoreapp3.1\03. Ski Rental.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Ski Rental\obj\Debug\netcoreapp3.1\03. Ski Rental.genruntimeconfig.cache

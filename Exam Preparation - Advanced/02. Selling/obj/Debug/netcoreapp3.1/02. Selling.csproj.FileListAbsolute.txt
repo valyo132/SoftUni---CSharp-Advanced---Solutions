@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\bin\Debug\netcoreapp3.1\02. Selling.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Selling\obj\Debug\netcoreapp3.1\02. Selling.genruntimeconfig.cache

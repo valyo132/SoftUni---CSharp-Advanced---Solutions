@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.genruntimeconfig.cache

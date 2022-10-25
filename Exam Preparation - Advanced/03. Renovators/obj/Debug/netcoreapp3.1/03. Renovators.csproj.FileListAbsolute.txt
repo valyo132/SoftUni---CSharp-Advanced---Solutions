@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\bin\Debug\netcoreapp3.1\03. Renovators.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Renovators\obj\Debug\netcoreapp3.1\03. Renovators.genruntimeconfig.cache

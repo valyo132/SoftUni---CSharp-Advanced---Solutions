@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\bin\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Truffle Hunter\obj\Debug\netcoreapp3.1\02. Truffle Hunter.genruntimeconfig.cache

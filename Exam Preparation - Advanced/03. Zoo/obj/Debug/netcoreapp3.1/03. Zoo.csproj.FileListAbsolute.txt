@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\bin\Debug\netcoreapp3.1\03. Zoo.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Zoo\obj\Debug\netcoreapp3.1\03. Zoo.genruntimeconfig.cache

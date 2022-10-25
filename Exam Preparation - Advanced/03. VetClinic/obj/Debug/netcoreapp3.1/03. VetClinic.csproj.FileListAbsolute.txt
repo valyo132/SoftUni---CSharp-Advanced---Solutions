@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\bin\Debug\netcoreapp3.1\03. VetClinic.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\bin\Debug\netcoreapp3.1\03. VetClinic.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\bin\Debug\netcoreapp3.1\03. VetClinic.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\bin\Debug\netcoreapp3.1\03. VetClinic.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\bin\Debug\netcoreapp3.1\03. VetClinic.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\bin\Debug\netcoreapp3.1\03. VetClinic.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. VetClinic\obj\Debug\netcoreapp3.1\03. VetClinic.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\bin\Debug\netcoreapp3.1\01. Cooking.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Cooking\obj\Debug\netcoreapp3.1\01. Cooking.genruntimeconfig.cache

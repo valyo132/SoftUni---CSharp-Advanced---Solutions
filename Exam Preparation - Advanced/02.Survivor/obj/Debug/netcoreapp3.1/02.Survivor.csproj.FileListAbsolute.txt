@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache

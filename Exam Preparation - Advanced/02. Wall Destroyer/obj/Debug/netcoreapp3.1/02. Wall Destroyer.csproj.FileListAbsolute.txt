@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\bin\Debug\netcoreapp3.1\02. Wall Destroyer.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Wall Destroyer\obj\Debug\netcoreapp3.1\02. Wall Destroyer.genruntimeconfig.cache

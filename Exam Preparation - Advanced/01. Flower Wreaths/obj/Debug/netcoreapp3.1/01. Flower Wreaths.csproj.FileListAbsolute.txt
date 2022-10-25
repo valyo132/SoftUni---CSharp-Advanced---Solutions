@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\bin\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Flower Wreaths\obj\Debug\netcoreapp3.1\01. Flower Wreaths.genruntimeconfig.cache

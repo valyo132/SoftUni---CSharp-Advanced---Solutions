@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\bin\Debug\netcoreapp3.1\02. Warships.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Warships\obj\Debug\netcoreapp3.1\02. Warships.genruntimeconfig.cache

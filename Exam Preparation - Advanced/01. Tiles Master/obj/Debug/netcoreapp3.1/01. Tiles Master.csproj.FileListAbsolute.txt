@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.genruntimeconfig.cache

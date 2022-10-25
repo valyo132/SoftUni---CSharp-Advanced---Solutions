@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\bin\Debug\netcoreapp3.1\03. Basketball.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\bin\Debug\netcoreapp3.1\03. Basketball.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\bin\Debug\netcoreapp3.1\03. Basketball.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\bin\Debug\netcoreapp3.1\03. Basketball.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\bin\Debug\netcoreapp3.1\03. Basketball.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\bin\Debug\netcoreapp3.1\03. Basketball.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Basketball\obj\Debug\netcoreapp3.1\03. Basketball.genruntimeconfig.cache

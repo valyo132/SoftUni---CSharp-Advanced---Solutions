@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\bin\Debug\netcoreapp3.1\03. Fishing Net.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\bin\Debug\netcoreapp3.1\03. Fishing Net.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\bin\Debug\netcoreapp3.1\03. Fishing Net.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\bin\Debug\netcoreapp3.1\03. Fishing Net.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\bin\Debug\netcoreapp3.1\03. Fishing Net.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\bin\Debug\netcoreapp3.1\03. Fishing Net.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Fishing Net\obj\Debug\netcoreapp3.1\03. Fishing Net.genruntimeconfig.cache

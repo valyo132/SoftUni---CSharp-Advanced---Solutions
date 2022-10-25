@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.exe
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.dll
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.pdb
+M:\C# Advanced\Exam Preparation - Advanced\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\bin\Debug\netcoreapp3.1\03. Guild.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\bin\Debug\netcoreapp3.1\03. Guild.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\bin\Debug\netcoreapp3.1\03. Guild.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\bin\Debug\netcoreapp3.1\03. Guild.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\bin\Debug\netcoreapp3.1\03. Guild.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\bin\Debug\netcoreapp3.1\03. Guild.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Guild\obj\Debug\netcoreapp3.1\03. Guild.genruntimeconfig.cache

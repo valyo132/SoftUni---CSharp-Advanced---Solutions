@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\bin\Debug\netcoreapp3.1\03. Street Racing.exe
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\bin\Debug\netcoreapp3.1\03. Street Racing.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\bin\Debug\netcoreapp3.1\03. Street Racing.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\bin\Debug\netcoreapp3.1\03. Street Racing.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\bin\Debug\netcoreapp3.1\03. Street Racing.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\bin\Debug\netcoreapp3.1\03. Street Racing.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.dll
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.pdb
+M:\C# Advanced\Exam Preparation - Advanced\03. Street Racing\obj\Debug\netcoreapp3.1\03. Street Racing.genruntimeconfig.cache

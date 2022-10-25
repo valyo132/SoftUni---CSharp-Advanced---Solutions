@@ -1,0 +1,14 @@
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.exe
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.deps.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.runtimeconfig.dev.json
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\bin\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.AssemblyReference.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfoInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.AssemblyInfo.cs
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.dll
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.pdb
+M:\C# Advanced\Exam Preparation - Advanced\02. Beaver at Work\obj\Debug\netcoreapp3.1\02. Beaver at Work.genruntimeconfig.cache

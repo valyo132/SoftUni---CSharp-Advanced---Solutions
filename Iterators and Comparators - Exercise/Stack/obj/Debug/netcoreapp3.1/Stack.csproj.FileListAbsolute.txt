@@ -1,0 +1,14 @@
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+M:\C# Advanced\Iterators and Comparators - Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

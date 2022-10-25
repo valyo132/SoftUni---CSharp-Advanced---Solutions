@@ -1,0 +1,14 @@
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.AssemblyReference.cache
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+M:\C# Advanced\Iterators and Comparators - Exercise\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache

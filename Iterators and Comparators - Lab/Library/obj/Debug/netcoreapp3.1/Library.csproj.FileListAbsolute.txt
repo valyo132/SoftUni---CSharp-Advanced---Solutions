@@ -1,0 +1,14 @@
+M:\C# Advanced\Iterators and Comparators - Lab\Library\bin\Debug\netcoreapp3.1\Library.exe
+M:\C# Advanced\Iterators and Comparators - Lab\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+M:\C# Advanced\Iterators and Comparators - Lab\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+M:\C# Advanced\Iterators and Comparators - Lab\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+M:\C# Advanced\Iterators and Comparators - Lab\Library\bin\Debug\netcoreapp3.1\Library.dll
+M:\C# Advanced\Iterators and Comparators - Lab\Library\bin\Debug\netcoreapp3.1\Library.pdb
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.GeneratedMSBuildEditorConfig.editorconfig
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.dll
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.pdb
+M:\C# Advanced\Iterators and Comparators - Lab\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
